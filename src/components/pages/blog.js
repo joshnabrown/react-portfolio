@@ -108,7 +108,7 @@ class Blog extends Component {
                         <a onClick={this.handleNewBlogClick}>
                             <FontAwesomeIcon icon="plus-circle" />
                         </a>
-                    </div>) : null};
+                    </div>) : null}
 
                 <div className="content-container">
                     {blogRecords}
