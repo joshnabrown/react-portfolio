@@ -7,10 +7,12 @@
 @import "./grid.scss";
 @import "./navigation.scss";
 @import "./layouts.scss";
-@import "./portfolio.scss";
-@import "./portfolio-manager.scss";
-@import "./portfolio-form.scss";
-@import "./portfolio-sidebar.scss";
+@import "./home.scss";
+@import "./portfolio/portfolio.scss";
+@import "./portfolio/portfolio-manager.scss";
+@import "./portfolio/portfolio-form.scss";
+@import "./portfolio/portfolio-sidebar.scss";
+@import "./portfolio/portfolio-detail.scss";
 @import "./auth.scss";
 @import "./blog.scss";
 @import "./loaders.scss";
